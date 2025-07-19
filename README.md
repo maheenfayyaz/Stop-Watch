@@ -1,1 +1,1 @@
-<h1>Prodigy-Info-Tech-Internship</h1>
+<h1>Stop-Watch</h1>
